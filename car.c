@@ -1,7 +1,7 @@
 #include<GL/glut.h>
 #include<math.h>
 #include<stdio.h>
-int left=0,right=300,bottom=0,top=200;
+int left=0,right=300,bottom=30,top=200;
 float x,y;
 int i,j,move=0,flag=-1;
 int rotate_y=0;
